@@ -1,0 +1,3 @@
+Function name   |Worked Time|Arguments|Operation  |Result
+calculation     | 2024-07-29|  19,18    |    *    |342
+calculation     | 2024-07-29|  19,18    |    *    |342
