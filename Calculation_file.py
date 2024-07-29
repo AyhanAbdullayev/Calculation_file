@@ -1,8 +1,8 @@
 from datetime import date 
 from os.path import exists
 
-if not exists("table.txt"):
-    with open("table.txt","w") as f:
+if not exists("table.doc"):
+    with open("table.doc","w") as f:
         f.write("Function name   |Worked Time|Arguments|Operation|Result\n")
 
 def calculation(func):
@@ -17,7 +17,7 @@ def calculation(func):
         Operation = oper
         a = str(a)
         b = str(b)
-        with open("table.txt","a") as f:
+        with open("table.doc","a") as f:
             f.write(f"{a_name}| {Worked_time}|  {a},{b}    |    {Operation}    |{result}\n")
     return inner
 

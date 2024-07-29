@@ -1,0 +1,7 @@
+Function name   |Worked Time|Arguments|Operation|Result
+calculation     | 2024-07-29|  19,18    |    *    |342
+calculation     | 2024-07-29|  16,16    |    *    |256
+calculation     | 2024-07-29|  0,0    |    /    |division by zero
+calculation     | 2024-07-29|  3,0    |    /    |division by zero
+calculation     | 2024-07-29|  4,0    |    /    |None
+calculation     | 2024-07-29|  4,4    |    4    |None
